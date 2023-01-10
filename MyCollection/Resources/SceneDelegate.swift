@@ -1,9 +1,5 @@
-//
-//  SceneDelegate.swift
-//  MyCollection
-//
-//  Created by Dmytro Neboha on 29.12.2022.
-//
+
+
 
 import UIKit
 
